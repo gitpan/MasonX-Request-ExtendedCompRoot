@@ -1,0 +1,10 @@
+Changes
+LICENSE
+Makefile.PL
+MANIFEST
+lib/MasonX/Request/ExtendedCompRoot.pm
+lib/MasonX/Resolver/ExtendedCompRoot.pm
+README
+t/01-request.t
+t/02-resolver.t
+META.yml                                Module meta-data (added by MakeMaker)
